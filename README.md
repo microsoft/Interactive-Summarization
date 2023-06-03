@@ -1,6 +1,6 @@
 # Interactive Summarization
 
-> This repo releases the human evaluation data of paper "Interactive Editing for Text Summarization". In the data folder, you can find the human evaluations for the draft summaries (`summary 1`), human annotated summaries with and without interaction (`summary 2` and `summary 3`).
+This repo releases the human evaluation data of paper "Interactive Editing for Text Summarization". In the data folder, you can find the human evaluations for the draft summaries (`summary 1`), human annotated summaries with and without interaction (`summary 2` and `summary 3`).
 
 ## Contributing
 
